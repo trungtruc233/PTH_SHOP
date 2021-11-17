@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NovsHhxbErdsiPgVcjfcmEPe+vfMPI7FiYNTd9ZJXqPsZU9xDG4mxYqTdH7JX6EYOtNfftUMik8gRamOU02v4Q==",
+  "dgSpecHash": "OBkq0T8G8Kxku19GBkVaLRUehvJD3U6P0NyLV+8dK3tzf5+dbVzXYbWY+ziDtseRJ4XtK/D8mNBNaadNs66P0Q==",
   "success": true,
-  "projectFilePath": "E:\\2021-2022\\WEB\\GIT\\PTH_SHOP\\PTHShopping\\PTHShopping\\PTHShopping.csproj",
+  "projectFilePath": "E:\\PTH_SHOP\\PTHShopping\\PTHShopping\\PTHShopping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thanh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
