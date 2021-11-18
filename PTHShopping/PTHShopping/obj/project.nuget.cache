@@ -1,22 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "ZQqL/z0wymuv+6VF59xf1P08JO3BezC/s4GlRT1cQ4ZsLHl9yBZ+GqrsCrmTjo7YW0HAhCldoY767qGshN2zFA==",
+<<<<<<< HEAD
+  "dgSpecHash": "hxOTQXcBI9GKBwCXCaxn5+N3VoFAE04lUQCWm9UppPx+Bpd8KbcWzOJo/ZdzUIywji2XYeSlhxIxQxraCo7Ysw==",
+=======
+  "dgSpecHash": "OBkq0T8G8Kxku19GBkVaLRUehvJD3U6P0NyLV+8dK3tzf5+dbVzXYbWY+ziDtseRJ4XtK/D8mNBNaadNs66P0Q==",
+>>>>>>> parent of 951ed23 (need fixx)
   "success": true,
   "projectFilePath": "E:\\PTH_SHOP\\PTHShopping\\PTHShopping\\PTHShopping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thanh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.10\\microsoft.aspnetcore.mvc.razor.extensions.5.0.10.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.10\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.10.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.10\\microsoft.aspnetcore.razor.language.5.0.10.nupkg.sha512",
+    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0\\microsoft.codeanalysis.common.3.8.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\microsoft.codeanalysis.csharp.3.8.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\3.8.0\\microsoft.codeanalysis.csharp.workspaces.3.8.0.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.codeanalysis.razor\\5.0.10\\microsoft.codeanalysis.razor.5.0.10.nupkg.sha512",
+    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.codeanalysis.razor\\5.0.0\\microsoft.codeanalysis.razor.5.0.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\3.8.0\\microsoft.codeanalysis.workspaces.common.3.8.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
@@ -33,7 +35,6 @@
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
