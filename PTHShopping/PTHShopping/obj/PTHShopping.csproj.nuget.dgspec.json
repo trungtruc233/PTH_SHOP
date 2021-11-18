@@ -68,6 +68,10 @@
               "target": "Package",
               "version": "[5.0.2, )"
             },
+            "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
             "PagedList.Core.Mvc": {
               "target": "Package",
               "version": "[3.0.0, )"

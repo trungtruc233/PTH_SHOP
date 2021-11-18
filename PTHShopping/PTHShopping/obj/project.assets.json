@@ -7317,6 +7317,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.10",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.2",
+      "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore >= 5.0.2",
       "PagedList.Core.Mvc >= 3.0.0"
     ]
   },
@@ -7386,6 +7387,10 @@
             "version": "[5.0.10, )"
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+            "target": "Package",
+            "version": "[5.0.2, )"
+          },
+          "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": {
             "target": "Package",
             "version": "[5.0.2, )"
           },
