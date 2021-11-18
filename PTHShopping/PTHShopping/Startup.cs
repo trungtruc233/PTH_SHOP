@@ -24,12 +24,15 @@ namespace PTHShopping
         public void ConfigureServices(IServiceCollection services)
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             var StringConnectdb = Configuration.GetConnectionString("PTHShopping");
             services.AddDbContext<PTHShoppingContext>(options => options.UseSqlServer(StringConnectdb));
 
             //Tranh loi font tieng viet
             services.AddSingleton<HtmlEncoder>(HtmlEncoder.Create(allowedRanges: new[] { UnicodeRanges.All }));
 =======
+=======
+>>>>>>> parent of 951ed23 (need fixx)
             services.AddControllersWithViews().AddRazorRuntimeCompilation();
 >>>>>>> parent of 951ed23 (need fixx)
         }
